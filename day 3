@@ -1,0 +1,25 @@
+작심삼십일 일일코딩 day 3 (6/3)
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+  <title>David의 HTML</title>
+  <meta name="description" content="David의 문서">
+  <style> .item {color: red;} 
+  </style>
+</head>
+
+<body>
+  <h1> HTML 기초 </h1>
+  <p> HTML부터 시작 </p>
+  <h2>
+    테스팅
+   </h2>
+</body>
+
+</html>
+
+
+일일코딩 day 3 DONE
