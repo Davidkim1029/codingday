@@ -1,0 +1,21 @@
+작심삼십일 일일코딩 day 4 (6/4)
+<html>
+ <head>
+  <style> 
+      li {
+            color:red;
+         }
+  </style>
+ </head>
+ <body>
+  <ul>
+    <li>HTML</li>
+    <li>JS</li>
+    <li>CSS</li>
+    <li>MySQL</li>
+  </ul>
+ </body>
+</html>
+
+
+일일코딩 day 4 DONE
