@@ -1,0 +1,15 @@
+작심삼십일 일일코딩 day 5 (6/5)
+<h2> "ol" 속성 가운데 reversed 속성 관련 </h2>
+<ol>
+  <li> 역순으로 표시가 되는 속성은?
+  <ol reversed>
+    <li> 1</li>
+    <li> A</li>
+    <li> disc</li>
+    <li> reversed</li>
+  </ol>
+  </li>
+</ol>
+
+
+일일코딩 day 5 DONE
