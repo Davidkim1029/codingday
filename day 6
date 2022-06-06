@@ -1,0 +1,22 @@
+작심삼십일 일일코딩 day 6 (6/6)
+
+<p> <strong>안녕</strong>하세요 </p>
+<h1> 반갑습니다 </h1>
+<a href="https://naver.com">네이버로 이동</a>
+
+<div>
+  Tab1
+</div>
+<div>
+  Tab2
+</div>
+
+<button>Search</button>
+<input>
+<select>
+  <option>Test1</option>
+  <option>Test2</option>
+</select>
+<progress></progress>  <!progress 표시>
+
+일일코딩 day 6 DONE
