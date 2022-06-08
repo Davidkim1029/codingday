@@ -1,0 +1,23 @@
+작심삼십일 일일코딩 day 8 (6/8)
+
+<html>
+ <head>
+  <style> 
+      li {
+            color:green, font:bold;
+         }
+  </style>
+ </head>
+ <body>
+  <p> This is paragraph </p>
+  <input type="text" style="width: 500px height: 100px; font-size: 50px;">
+  <div>
+    <button style="width: 500px; height: 100px; font-size: 50px;">버튼1</button>
+  </div>
+  <div>
+   <button style="width: 500px; height: 100px; font-size: 50px;">버튼2</button>
+  </div>
+ </body>
+</html>
+
+일일코딩 day 8 DONE
