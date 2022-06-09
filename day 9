@@ -1,0 +1,28 @@
+작심삼십일 일일코딩 day 9 (6/9)
+
+<html>
+ <head>
+  <style> 
+      li {
+            color:purple, font:bold;
+         }
+  </style>
+ </head>
+ 
+ <body>
+  <p> This is paragraph </p>
+  
+  <div style="display: flex;">
+    <button style="width: 500px; height: 100px; font-size: 50px;">버튼1</button>
+  </div>
+  
+  <div style="display: flex;">
+   <button style="width: 500px; height: 100px; font-size: 50px;">버튼2</button>
+  </div>
+  <a href="https://naver.com" style="font-size: 30px;">구글로 이동</a>
+  
+ </body>
+ 
+</html>
+
+일일코딩 day 9 DONE
