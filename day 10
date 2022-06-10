@@ -1,0 +1,19 @@
+작심삼십일 일일코딩 day 10 (6/10)
+<html>
+ <head>
+  <style> 
+      li {
+            color:blue;
+         }
+  </style>
+ </head>
+ <body>
+  <p> This is paragraph </p>
+   <button style="width: 500px; height: 100px; font-size: 50px;">버튼1</button>
+   <button style="width: 500px; height: 100px; font-size: 50px;">버튼2</button>
+  <a href="https://naver.com" style="font-size: 30px;">구글로 이동</a>
+ </body>
+</html>
+
+
+일일코딩 day 10 DONE
