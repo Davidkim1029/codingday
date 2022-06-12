@@ -1,0 +1,36 @@
+작심삼십일 일일코딩 day 12 (6/12)
+<html>
+
+ <head>
+  <p> <strong>안녕</strong>하세요 </p>
+  <h1> 반갑습니다 </h1>
+  <a href="https://naver.com">네이버로 이동</a>
+  <style> 
+      li {
+            color:blue;
+         }
+  </style>
+ </head>
+ 
+ <body>
+   
+   <div>
+    <h1> Menu </h1>
+     <form>
+      <input type="text" style="font-size: 30px;">
+      <input type="email" style="font-size: 30px;">
+      <input type="password" style="font-size: 30px;">체크박스</input><br/>
+      
+      <select name="coffee">
+        <option value="1">아메리카노</option>
+        <option value="2">카페라떼</option>
+        <option value="3">모카프랖</option>
+      </select>   
+     </form>
+   </div>
+
+ </body>
+</html>
+
+
+일일코딩 day 12 DONE
