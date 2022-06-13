@@ -1,0 +1,37 @@
+작심삼십일 일일코딩 day 13 (6/13)
+<html>
+
+ <head>
+  <p> <strong>안녕</strong>하세요 </p>
+  <h1> 반갑습니다 </h1>
+  <a href="https://google.com">구글</a>
+  <style> 
+      li {
+            color:blue;
+         }
+  </style>
+ </head>
+ 
+ <body>
+   
+   <div>
+      
+      <table summary="테이블" style="width: 500px; height: 300px;">
+        <caption>테이블 이름</caption>
+        <tr>
+          <th>이름</th>
+          <th>나이</th>
+          <th>지역</th>
+        </tr>
+        <tr>
+          <td>철수</td>
+          <td>12</td>
+          <td>서울</td>
+     
+   </div>
+
+ </body>
+</html>
+
+
+일일코딩 day 13 DONE
