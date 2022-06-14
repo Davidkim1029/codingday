@@ -1,0 +1,33 @@
+작심삼십일 일일코딩 day 14 (6/14)
+<html>
+
+ <head>
+  <p> <strong>Welcome</strong>to my space <strong>David</strong> </p>
+  <h1> 반갑습니다 </h1>
+  <a href="facebook.com"><strong>페이스북</strong></a>
+
+ </head>
+ 
+ <body>
+   
+   <div>
+      
+      <table summary="주식 계좌" style="width: 500px; height: 300px;">
+        <caption>일일 매매</caption>
+        <tr>
+          <th>종목</th>
+          <th>수량</th>
+          <th>단가</th>
+        </tr>
+        <tr>
+          <td>SKC</td>
+          <td>100</td>
+          <td>100,000</td>
+        </tr>
+   </div>
+
+ </body>
+</html>
+
+
+일일코딩 day 14 DONE
