@@ -27,11 +27,6 @@
       <table summary="주식 계좌" style="width: 500px; height: 300px;">
         <caption>해외 주식</caption>
         <tr>
-          <td>SKC</td>
-          <td>100</td>
-          <td>100,000</td>
-        </tr>
-        <tr>
           <td>Tesla</td>
           <td>50</td>
           <td>600</td>
