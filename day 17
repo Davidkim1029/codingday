@@ -1,0 +1,56 @@
+작심삼십일 일일코딩 day 17 (6/17)
+<html>
+
+ <head>
+  <p> <strong>Welcome</strong>to my space <strong>David</strong> </p>
+  <a href="https://blog.naver.com/eunbinkim1029"><strong>블로그로 이동</strong></a>
+
+ </head>
+ 
+ <body>
+   
+   <div>
+      <table summary="주식 계좌" style="width: 500px; height: 300px;">
+        <caption>국내 주식</caption>
+        <tr>
+          <th>종목</th>
+          <th>수량</th>
+          <th>단가</th>
+        </tr>
+        <tr>
+          <td>네오위즈홀딩스</td>
+          <td>50</td>
+          <td>51,000</td>
+        </tr>
+        <tr>
+          <td>skiet</td>
+          <td>50</td>
+          <td>100,000</td>
+        </tr>
+   </div>
+   <div>
+      <table summary="주식 계좌" style="width: 500px; height: 300px;">
+        <caption>해외 주식</caption>
+        <tr>
+          <td>Tesla</td>
+          <td>50</td>
+          <td>600</td>
+        </tr>
+        <tr>
+          <td>Microsoft</td>
+          <td>100</td>
+          <td>200</td>
+        </tr>
+        <tr>
+          <td>Apple</td>
+          <td>100</td>
+          <td>110</td>
+   </div>
+
+
+
+ </body>
+</html>
+
+<!------------------
+일일코딩 day 17 DONE >
