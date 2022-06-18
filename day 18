@@ -1,0 +1,22 @@
+작심삼십일 일일코딩 day 18 (6/18)
+
+<!doctype html>
+<html lang="ko">
+  <hear></head>
+    <body>
+      <style>
+        div > span{
+          background: green;
+          }
+      </style>
+      <div>
+        <span>코딩</span>
+        <span>html</span>
+        <span>testing</span>
+      </div>
+    </body>
+</html>
+
+
+<!------------------
+일일코딩 day 18 DONE >
