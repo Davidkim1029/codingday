@@ -1,0 +1,38 @@
+작심삼십일 일일코딩 day 19 (6/19)
+
+<!doctype html>
+<html lang="ko">
+  <hear></head>
+    <body>
+      <style>
+        div > span{
+          background: green;
+          }
+      </style>
+      <table> 
+        <thead>
+          <tr>
+            <th> 이름 </th>
+            <th> 성별 </th>
+            <th> 나이 </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td> David </td>
+            <td> M </td>
+            <td> 32 </td>
+          </tr>
+        </tbody>
+      </table>
+      <div>
+        <span>코딩</span>
+        <span>html</span>
+        <span>testing</span>
+      </div>
+    </body>
+</html>
+
+
+<!------------------
+일일코딩 day 19 DONE >
