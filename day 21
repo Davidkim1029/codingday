@@ -1,0 +1,43 @@
+작심삼십일 일일코딩 day 21 (6/21)
+
+<!doctype html>
+<html lang="ko">
+  <head>
+    <h2> Welcome <strong>again</strong> </h2>
+  </head>
+    <body>
+      <style>
+        table{
+              border:1px solid black;
+              }
+        table > thead {
+          border:1px solid gray;
+          }
+      </style>
+      <table> 
+        <thead>
+          <tr>
+            <th> 차종 </th>
+            <th> cc </th>
+            <th> 옵션 </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td> 싼타페 </td>
+            <td> 2000 </td>
+            <td> 풀옵션 </td>
+          </tr>
+          <tr>
+            <td>  </td>
+            <td> 2000 </td>
+            <td> 풀옵션 </td>
+          </tr>
+        </tbody>
+      </table>
+    </body>
+</html>
+
+
+<!------------------
+일일코딩 day 21 DONE >
