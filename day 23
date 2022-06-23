@@ -1,0 +1,40 @@
+작심삼십일 일일코딩 day 23 (6/23)
+
+<!doctype html>
+<html lang="ko">
+  <head>
+    <h1> 1st Testing blog </h1>
+    <h2> Welcome <strong>again</strong> </h2>
+    <p> This is a blog about wish list </p>
+  </head>
+    <body>
+      <style>
+        table{border:1px solid black; text-align:center; background-color:yellow}
+      </style>
+      <table> 
+        <thead>
+          <tr style="color:blue;">
+            <th> No </th>
+            <th> Detail </th>
+            <th> Target age </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr style="color:red;">
+            <td> 1 </td>
+            <td> Sky diving </td>
+            <td> 35 </td>
+          </tr>
+          <tr>
+            <td> 2 </td>
+            <td> scuba diving </td>
+            <td> 40 </td>
+          </tr>
+        </tbody>
+      </table>
+    </body>
+</html>
+
+
+<!------------------
+일일코딩 day 23 DONE >
