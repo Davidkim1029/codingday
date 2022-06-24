@@ -1,0 +1,40 @@
+<!작심삼십일 일일코딩 day 24 (6/24)>
+
+<!doctype html>
+<html lang="ko">
+  <head>
+    <h1> 1st Testing blog </h1>
+    <h2> Welcome <strong>again</strong> </h2>
+    <p> This is a blog about wish list </p>
+  </head>
+    <body>
+      <style>
+        table{border:1px solid black; text-align:center; background-color:yellow}
+      </style>
+      <table> 
+        <thead>
+          <tr style="color:blue;">
+            <th> Company </th>
+            <th> Region </th>
+            <th> Category </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr style="background-color:white; color:black; font-size:20px">
+            <td style="color:green;"> LINE+ </td>
+            <td> KR </td>
+            <td> IT </td>
+          </tr>
+          <tr style="background-color:white; color:black; font-size:20px;">
+            <td style="color:purple;"> Tesla </td>
+            <td> US </td>
+            <td> Mobility </td>
+          </tr>
+        </tbody>
+      </table>
+    </body>
+</html>
+
+
+<!------------------
+일일코딩 day 24 DONE >
