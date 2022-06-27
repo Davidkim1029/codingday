@@ -1,0 +1,40 @@
+<!작심삼십일 일일코딩 day 27 (6/27)>
+
+<!doctype html>
+<html lang="ko">
+  <head>
+    <h1> D-day 3 </h1>
+    <p> HTML / CSS / JavaScript </p>
+  </head>
+    <body>
+      <style>
+        table{border:1px solid grey; text-align:center; background-color:brown}
+      </style>
+      <table> 
+        <thead>
+          <tr style="background:pink; color:yellow;">
+            <th> Games </th>
+            <th> Type </th>
+            <th> Company </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr style="background-color:white; color:blue; font-size:20px">
+            <td style="color:green;"> FIFA Online 4 </td>
+            <td> <b> Sports </b> </td>
+            <td> NEXON </td>
+          </tr>
+          <tr style="background-color:white; color:red; font-size:20px;">
+            <td style="color:green;"> League of Legends </td>
+            <td> <b> PRG </b> </td>
+            <td> RIOTS </td>
+          </tr>      
+        </tbody>
+      </table>
+    </body>
+    <p> This coding is almost getting done now </p>
+</html>
+
+
+<!------------------
+일일코딩 day 27 DONE >
