@@ -1,0 +1,43 @@
+<!작심삼십일 일일코딩 day 28 (6/28)>
+
+<!doctype html>
+<html lang="ko">
+  <head>
+    <h1> D-day 2 </h1>
+    <p> Animal World </p>
+  </head>
+    <body>
+      <style>
+        table{border:1px grey; text-align:center; background-color:orange}
+      </style>
+      <table> 
+        <thead>
+          <tr style="background:grey; color:whitew;">
+            <th> <b>Pet</b> </th>
+            <th> <b>Name</b> </th>
+            <th> <b>Kind</b> </th>
+            <th> <b>Age</b> </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr style="background-color:white; color:blue; font-size:20px">
+            <td style="color:green;"> Puppy </td>
+            <td> <b> Samsun </b> </td>
+            <td> Dog </td>
+            <td> 10 </td>
+          </tr>
+          <tr style="background-color:white; color:red; font-size:20px;">
+            <td style="color:green;"> Chipmunk </td>
+            <td> <b> Koring </b> </td>
+            <td> Squirrel </td>
+            <td> 8 </td>
+          </tr>      
+        </tbody>
+      </table>
+    </body>
+    <p> This coding is almost getting done now </p>
+</html>
+
+
+<!------------------
+일일코딩 day 28 DONE >
