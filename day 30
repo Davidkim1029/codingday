@@ -1,0 +1,37 @@
+<!작심삼십일 일일코딩 day 30 (6/30)>
+
+<!doctype html>
+<html lang="ko">
+  <head>
+    <h1> D-day </h1>
+    <p> Coding at LINE is done as of today </p>
+  </head>
+    <body>
+      <style>
+        table{border:1px; text-align:center; background-color:black}
+      </style>
+      <table> 
+        <thead>
+          <tr style="background:grey; color:white;">
+            <th> <b>Period</b> </th>
+            <th> <b>Grass</b> </th>
+            <th> <b>Worked on</b> </th>
+            <th> <b>Benefit</b> </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr style="background-color:grey; color:black; font-size:20px">
+            <td style="color:green;"> <b> 6/1~6/30 </b> </td>
+            <td style="color:yellow;"> 30 </td>
+            <td> Mostly on HTML </td>
+            <td> Got to know the basic html structure </td>
+          </tr>  
+        </tbody>
+      </table>
+    </body>
+    <p> This coding is almost getting done now </p>
+</html>
+
+
+<!------------------
+일일코딩 day 30 DONE >
